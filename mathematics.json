@@ -1,0 +1,90 @@
+[
+  {
+    "id": "q_1",
+    "text": "What is the square root of 144?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q_2",
+    "text": "Solve: 2x + 5 = 13",
+    "options": [
+      "x = 2",
+      "x = 4",
+      "x = 6",
+      "x = 8"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q_3",
+    "text": "What is the perimeter of a square with side length 5cm?",
+    "options": [
+      "10 cm",
+      "15 cm",
+      "20 cm",
+      "25 cm"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q_4",
+    "text": "What is 15% of 80?",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q_5",
+    "text": "If a triangle has angles of 60° and 70°, what is the third angle?",
+    "options": [
+      "40°",
+      "50°",
+      "60°",
+      "70°"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q_6",
+    "text": "What is the value of 3⁴?",
+    "options": [
+      "12",
+      "27",
+      "81",
+      "243"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q_7",
+    "text": "Simplify: (x + 2)²",
+    "options": [
+      "x² + 4",
+      "x² + 2x + 4",
+      "x² + 4x + 4",
+      "x² + 4x + 2"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q_8",
+    "text": "What is the average of 10, 20, 30, and 40?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "answer": 1
+  }
+]
